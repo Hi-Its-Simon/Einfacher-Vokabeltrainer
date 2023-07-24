@@ -1,6 +1,7 @@
 # Einfacher-Vokabeltrainer
 Hey, diesen Vokabeltrainer kannst du benutzen um Vokabeln in neuen Sprachen aufzuschreiben und abzufragen.
-Er wurde komplett in QT.64 mit C++ geschrieben.
+Er wurde komplett in QT 6.4 mit C++ geschrieben.
+Dieses Projekt, ist mein kennlern-Projekt für QT.
 
 Der Code inklusive Erklärung:
 
