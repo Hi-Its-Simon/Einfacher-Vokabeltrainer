@@ -2,7 +2,8 @@
 Hey, diesen Vokabeltrainer kannst du benutzen um Vokabeln in neuen Sprachen aufzuschreiben und abzufragen.
 Er wurde komplett in QT.64 mit C++ geschrieben.
 
-Code:
+Der Code inklusive Erklärung:
+
 Disclaimer: Zur Veranschaulichung wurde der Code in nur ein einzelnes Dokument geschrieben, eigentlich ist der Code auf mehrere Dateien aufgeteilt. Hier wird auch nur der Code gezeigt, den ich selber geschrieben habe, der Code, der automatisch von QT generiert wird (HTML & der Großteil des CSS Codes), hingegen nicht.
 
 
